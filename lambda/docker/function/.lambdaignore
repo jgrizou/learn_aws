@@ -1,0 +1,4 @@
+"*__pycache__*"
+.lambdaignore
+install.sh
+requirements.txt

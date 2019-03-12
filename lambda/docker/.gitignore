@@ -1,0 +1,6 @@
+function.zip
+function/*
+!/function/.lambdaignore
+!/function/install.sh
+!/function/lambda_function.py
+!/function/requirements.txt
